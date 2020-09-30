@@ -1,6 +1,11 @@
 .title{
     font-family: arial; 
 }
-.kopje{ 
-    color: blue;
+.kopje { 
+    color: red;
+    background-color: black;
+}
+.kopjes{
+    color: red;
+    background-color: black;
 }
