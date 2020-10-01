@@ -1,12 +1,19 @@
 #container{
-    background-color: black;
-    width: 90%;
-    height: 600px;
-    margin: 2%;
+    background-color: cornsilk;
+    width: 100%;
+    height: 1000px;
+    display: flex;
 }
 #menu{
-    background-color: white;
+    background-color: navy;
     width: 100%;
-    height: 60px;
+    height: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+a:link a:visited  {
+    background-color: black;
+    
 
 }
