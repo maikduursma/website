@@ -3,6 +3,7 @@
     width: 100%;
     height: 1000px;
     display: flex;
+    
 }
 #menu{
     background-color: cornflowerblue;
@@ -12,12 +13,23 @@
     margin-right: 0px;
 
 }
-.foto{
+.home{
     margin-left: 30%;
-    margin-bottom: 20%;
-    color: red;
+    margin-top: 20%;
+    color: black;
+}
+.merken{
+    margin-left: 10%;
+    color: black;
+    
+
 }
 .h1{
 margin-left: 5%;
 font-family: Arial, Helvetica, sans-serif;
+}
+
+.html,body{
+    padding: 0;
+    margin: 0;
 }
