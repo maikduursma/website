@@ -15,12 +15,12 @@
 }
 .home{
     margin-left: 30%;
-    margin-top: 20%;
+    margin-right: 5%;
     color: black;
 }
 .merken{
-    margin-left: 10%;
     color: black;
+    margin-right: 5%
     
 
 }
@@ -32,4 +32,9 @@ font-family: Arial, Helvetica, sans-serif;
 .html,body{
     padding: 0;
     margin: 0;
+}
+.shop{
+    color: black;
+    margin-right: 5%;
+    
 }
