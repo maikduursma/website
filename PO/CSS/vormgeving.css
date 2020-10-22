@@ -1,18 +1,23 @@
 #container{
-    background-color: cornsilk;
+    background-color: whitesmoke;
     width: 100%;
     height: 1000px;
-    display: flex;
+    
     
 }
 #menu{
-    background-color: cornflowerblue;
+    background-color: darkblue;
     width: 100%;
     height: 100px;
     margin-left: 0px;
     margin-right: 0px;
-
 }
+
+#inhoud {
+    background-color: red;
+    margin-top: 
+}
+
 .html,body{
     padding: 0;
     margin: 0;
@@ -28,12 +33,16 @@ li{
     display: table;
     width: 100px;
     */
-    border: 4px solid cornsilk;
-    background-color: cornflowerblue;
+    border: 4px solid black;
+    background-color: white;
     padding-right: 20px;
     padding-left: 20px;
+    margin-left: 40px;
 }
 a{
     text-decoration: none;
-    color: white;
+    color: black;
+}
+#plaatjes{
+ height: 10%;
 }
